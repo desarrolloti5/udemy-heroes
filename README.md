@@ -17,3 +17,6 @@ node_modules
 ## Motivo
 
 este repositorio sirve para prbar cosas
+heroes
+robin
+linterna verde
