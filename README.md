@@ -13,3 +13,7 @@ A omitir
 
 node_modules
 .log
+
+## Motivo
+
+este repositorio sirve para prbar cosas
